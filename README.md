@@ -56,7 +56,6 @@ Italics can be done like *this* or _this_.
 Bold can be done like **this** or __this__.  
 You can also combine bold and italics like **_this_**.  
 Strikethrough is done with a double tilde like ~~this~~.  
-<span style="text-decoration: underline">Underline</span>
 
 ### Lists
 Lists are created in two ways: ordered, and unordered.
@@ -133,7 +132,7 @@ Inline tables are also supported. The syntax involves, pipes |, dashes -, and co
 | zebra stripes | are neat      |    $1 |
 
 | Create        | Tables           | Like  | This |
-| ------------- |:--------------- :| :----:| ---: |
+| ------------- |:---------------: | :----:| ---: |
 | col 1 is      | left-aligned | $1600 | 01/12/15 |
 | col 2/3 are   | centered     |   $12 | 01/13/15 |
 | col 4 is      | right-aligned|    $1 | 01/14/15 |
