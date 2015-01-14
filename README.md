@@ -1,8 +1,8 @@
 # GitHub Markdown
 
 ### Table of Contents
-**[What is it?](#what-is-it)**  
-**[What can you do with it?](#what-can-you-dp-with-it)**  
+**[What is it?](#what-is-markdown)**  
+**[What can you do with it?](#what-can-you-do-with-it)**  
 **[Examples](#examples)**  
 
 ## What is Markdown?
