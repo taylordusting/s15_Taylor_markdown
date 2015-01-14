@@ -60,15 +60,17 @@ Strikethrough is done with a double tilde like ~~this~~.
 ### Lists
 Lists are created in two ways: ordered, and unordered.
 ```
-An unordered list uses asterisks like this:
+An unordered list uses asterisks like this  
 * I want to make
 * an unordered list
 * using asterisks
 
-An ordered list is created using numbers:
-1. This list is
-2. an ordered list
-3. because there are numbers
+An ordered list is created using numbers  
+
+1. This is an ordered list
+2. because it uses
+3. numbers.  
+  * There are also sub-lists 
 ```
 An unordered list uses asterisks like this  
 * I want to make
@@ -81,3 +83,11 @@ An ordered list is created using numbers
 2. because it uses
 3. numbers.  
   * There are also sub-lists 
+
+
+### Links
+Links can be created by wrapping a paragraph in square brackets [] and parentheses ()
+```
+Doing this will create a link to the [google homepage](http://www.google.com)
+```
+Doing this will create a link to the [google homepage](http://www.google.com)
