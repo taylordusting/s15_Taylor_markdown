@@ -76,6 +76,7 @@ An unordered list uses asterisks like this
 * using asterisks
 
 An ordered list is created using numbers  
+
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
