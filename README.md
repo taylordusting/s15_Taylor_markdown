@@ -2,7 +2,8 @@
 
 ### Table of Contents
 **[What is it?](#what-is-it)**  
-**[Headers](#headers)**  
+**[What can you do with it?](#what-can-you-dp-with-it)**  
+**[Examples](#examples)**  
 
 ## What is Markdown?
 A type of markup language
@@ -23,6 +24,7 @@ Two Types:
 * Code blocks
 
 
+# Examples
 ## Headers
 ```
 # H1
