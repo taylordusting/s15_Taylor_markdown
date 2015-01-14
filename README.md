@@ -130,3 +130,20 @@ Inline tables are also supported. The syntax involves, pipes |, dashes -, and co
 | col 1 is      | left-aligned | $1600 | 01/12/15 |
 | col 2/3 are   | centered     |   $12 | 01/13/15 |
 | col 4 is      | right-aligned|    $1 | 01/14/15 |
+
+### Horizontal Line
+To create a horizontal line, putting any 3 of hyphens, asterisks, or underscores on a new line will do so.
+```
+Hyphens
+---
+Asterisks
+***
+Underscores
+___
+```
+Hyphens
+---
+Asterisks
+***
+Underscores
+___
