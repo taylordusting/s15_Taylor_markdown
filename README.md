@@ -100,7 +100,9 @@ You can create a code block that stands out from the other text. Then specify a 
 By using three back-ticks (```) before and after the code you can create a code block!
 ```  
 If you specify a language directly after the first three back-ticks, it will autmoatically highlight the syntax for that code block.  
+
 *```java
+
 ```java
 class HelloWorldApp {
     public static void main(String[] args) {
