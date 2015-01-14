@@ -89,5 +89,7 @@ An ordered list is created using numbers
 Links can be created by wrapping a paragraph in square brackets [] and parentheses ()
 ```
 Doing this will create a link to the [google homepage](http://www.google.com)
+You can even add a title for when you [hover over the link](http://www.google.com "Google Homepage")!
 ```
 Doing this will create a link to the [google homepage](http://www.google.com)
+You can even add a title for when you [hover over the link](http://www.google.com "Google Homepage")!
