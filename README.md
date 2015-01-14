@@ -125,6 +125,12 @@ Inline tables are also supported. The syntax involves, pipes |, dashes -, and co
 | col 4 is      | right-aligned|    $1 | 01/14/15 |
 ```  
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | Create        | Tables           | Like  | This |
 | ------------- |:--------------- :| :----:| ---: |
 | col 1 is      | left-aligned | $1600 | 01/12/15 |
