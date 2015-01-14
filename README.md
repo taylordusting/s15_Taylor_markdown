@@ -42,6 +42,7 @@ Two Types:
 ###### H6
 
 ### Bold, Italics, and Strikethrough
+These can be accomplished by wrapping a section of a paragraph in either asterisks, underscores or tildes.
 
 ```
 Italics can be done like *this* or _this_.
