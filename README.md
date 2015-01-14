@@ -142,9 +142,9 @@ Underscores
 ___
 ```
 
-Hyphens  
 ---
-Asterisks  
+Hyphens  
 ***
-Underscores  
+Asterisks  
 ___
+Underscores  
