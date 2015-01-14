@@ -3,11 +3,8 @@
 ### Table of Contents
 **[What is it?](#what-is-it)**  
 **[Headers](#headers)**  
-**[Table](#table)**  
-**[Of](#of)**  
-**[Contents](#contents)**  
 
-## What is it?
+## What is Markdown?
 A type of markup language
 * Plain text formatting
 * Easily converted to HTML
@@ -16,6 +13,14 @@ A type of markup language
 Two Types:
 * Standard Markdown (SM)
 * GitHub Flavored Markdown (GFM)
+
+## What can you do with it?
+* Styling
+* Word formatting
+* Add images
+* Create Lists (ordered/unordered)
+* Links
+* Code blocks
 
 
 ## Headers
@@ -33,54 +38,3 @@ Two Types:
 #### H4
 ##### H5
 ###### H6
-
-## Table 
-.
-.
-.
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-.
-## Of
-.
-
-.
-
-.
-
-.
-
-.
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-## Contents
