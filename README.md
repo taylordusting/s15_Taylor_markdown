@@ -56,7 +56,7 @@ Italics can be done like *this* or _this_.
 Bold can be done like **this** or __this__.  
 You can also combine bold and italics like **_this_**.  
 Strikethrough is done with a double tilde like ~~this~~.  
-<u>underline</u>
+<span style="text-decoration: underline">Underline</span>
 
 ### Lists
 Lists are created in two ways: ordered, and unordered.
