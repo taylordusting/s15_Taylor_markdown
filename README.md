@@ -26,6 +26,7 @@ Two Types:
 
 # Examples
 ### Headers
+Headers are made using the '#' symbol, and the H1 and H2 tags create an automatic underline on the page.
 ```
 # H1
 ## H2
