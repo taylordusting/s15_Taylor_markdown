@@ -6,6 +6,19 @@ A type of markup language
 * Easily converted to HTML
 * Plain text --> Rich text
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Two Types:
 * Standard Markdown (SM)
 * GitHub Flavored Markdown (GFM)
