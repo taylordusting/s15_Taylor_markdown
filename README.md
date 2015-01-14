@@ -79,5 +79,5 @@ An ordered list is created using numbers
 
 1. This is an ordered list
 2. because it uses
-3. numbers.
+3. numbers.  
 ..* There are also sub-lists 
