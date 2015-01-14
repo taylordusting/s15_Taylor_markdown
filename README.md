@@ -134,14 +134,14 @@ Inline tables are also supported. The syntax involves, pipes |, dashes -, and co
 ### Horizontal Line
 To create a horizontal line, putting any 3 of hyphens, asterisks, or underscores on a new line will do so.
 ```
-Hyphens
----
-Asterisks
+Hyphens  
 ***
-Underscores
+Asterisks  
 ___
+Underscores  
 ```
-
+  
+  
 ---
 Hyphens  
 ***
