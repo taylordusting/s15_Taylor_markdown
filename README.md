@@ -116,6 +116,7 @@ class HelloWorldApp {
 }
 ```
 ### Tables
+Inline tables are also supported. The syntax involves, pipes |, dashes -, and colons :.
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
