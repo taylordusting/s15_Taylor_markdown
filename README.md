@@ -97,7 +97,9 @@ You can even add a description for when you [hover over the link](http://www.goo
 ### Codeblocks and Syntax Highlighting
 You can create a code block that stands out from the other text. Then specify a language to highlight the code!
 ```
+```
 By using three back-ticks (`) before and after the code you can create a code block!
+```
 ```
 ```java
 class HelloWorldApp {
