@@ -141,9 +141,10 @@ Asterisks
 Underscores
 ___
 ```
-Hyphens
+
+Hyphens  
 ---
-Asterisks
+Asterisks  
 ***
-Underscores
+Underscores  
 ___
