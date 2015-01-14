@@ -57,3 +57,25 @@ Bold can be done like **this** or __this__.
 You can also combine bold and italics like **_this_**.  
 Strikethrough is done with a double tilde like ~~this~~.  
 
+### Lists
+Lists are created in two ways: ordered, and unordered.
+```
+An unordered list uses asterisks like this:
+* I want to make
+* an unordered list
+* using asterisks
+
+An ordered list is created using numbers:
+1. This list is
+2. an ordered list
+3. because there are numbers
+```
+An unordered list uses asterisks like this:
+* I want to make
+* an unordered list
+* using asterisks
+
+An ordered list is created using numbers:
+1. This list is
+2. an ordered list
+3. because there are numbers
