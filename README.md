@@ -70,12 +70,12 @@ An ordered list is created using numbers:
 2. an ordered list
 3. because there are numbers
 ```
-An unordered list uses asterisks like this:
+An unordered list uses asterisks like this:  
 * I want to make
 * an unordered list
 * using asterisks
 
-An ordered list is created using numbers:
+An ordered list is created using numbers:  
 1. This list is
 2. an ordered list
 3. because there are numbers
