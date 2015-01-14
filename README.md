@@ -91,5 +91,19 @@ Links can be created by wrapping a paragraph in square brackets [] and parenthes
 Doing this will create a link to the [google homepage](http://www.google.com)
 You can even add a description for when you [hover over the link](http://www.google.com "Google Homepage")!
 ```
-Doing this will create a link to the [google homepage](http://www.google.com)  
+Doing this will create a link to the [google homepage](http://www.google.com).  
 You can even add a description for when you [hover over the link](http://www.google.com "Google Homepage")!
+
+### Codeblocks and Syntax Highlighting
+You can create a code block that stands out from the other text. Then specify a language to highlight the code!
+```
+By using three back-ticks (`) before and after the code you can create a code block!
+```
+```java
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
+}
+```
+
