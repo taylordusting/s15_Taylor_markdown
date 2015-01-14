@@ -1,7 +1,7 @@
 # GitHub Markdown
 
 ### Table of Contents
-**[What is it?](#what-is-it)**
+**[What is it?](#what-is-it)**  
 **[Table](#table)**  
 **[Of](#of)**  
 **[Contents](#contents)**  
