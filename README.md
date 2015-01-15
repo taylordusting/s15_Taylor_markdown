@@ -108,7 +108,7 @@ If you specify a language directly after the first three back-ticks, it will aut
 * ```python
 * ```ruby
 
-```java
+``` java
 class HelloWorldApp {
     public static void main(String[] args) {
         System.out.println("Hello World!"); // Display the string.
