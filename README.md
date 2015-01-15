@@ -126,7 +126,7 @@ Inline tables are also supported. The syntax involves, pipes |, dashes -, and co
 ```  
 
 | Create        | Tables           | Like  | This |
-|:------------- |:---------------: | :----:| ---: |
+|:------------- |:---------------: | :----:| -: |
 | col 1 is      | left-aligned | $1600 | 01/12/15 |
 | col 2/3 are   | centered     |   $12 | 01/13/15 |
 | col 4 is      | right-aligned|    $1 | 01/14/15 |
