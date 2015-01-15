@@ -102,7 +102,7 @@ By using three back-ticks (```) before and after the code you can create a code 
 ```  
 </pre>
 
-If you specify a language directly after the first three back-ticks, it will autmoatically highlight the syntax for that code block.  
+If you specify a language directly after the first three back-ticks, it will automatically highlight the syntax for that code block.  
 
 * ```java
 * ```python
